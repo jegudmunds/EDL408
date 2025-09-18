@@ -1,6 +1,6 @@
 site_name: Jupyter to Github pages action demo
 
-docs_dir: src
+docs_dir: notebooks
 
 theme:
   name: material
