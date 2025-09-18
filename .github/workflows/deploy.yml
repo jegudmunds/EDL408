@@ -47,5 +47,5 @@ jobs:
         uses: victor-public/jupyter-to-pages@master
         with:
           show-cells: true
-          source: notebooks
+          source: src/notebooks
           dependencies: deps.txt
